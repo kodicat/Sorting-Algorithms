@@ -1,0 +1,5 @@
+C:\Users\Ievgenii_Iukhymchuk\Desktop\Sort\Sorting Algorithms\Contracts\bin\Debug\Contracts.dll
+C:\Users\Ievgenii_Iukhymchuk\Desktop\Sort\Sorting Algorithms\Contracts\bin\Debug\Contracts.pdb
+C:\Users\Ievgenii_Iukhymchuk\Desktop\Sort\Sorting Algorithms\Contracts\obj\Debug\Contracts.csprojResolveAssemblyReference.cache
+C:\Users\Ievgenii_Iukhymchuk\Desktop\Sort\Sorting Algorithms\Contracts\obj\Debug\Contracts.dll
+C:\Users\Ievgenii_Iukhymchuk\Desktop\Sort\Sorting Algorithms\Contracts\obj\Debug\Contracts.pdb

@@ -1,0 +1,7 @@
+C:\Users\Ievgenii_Iukhymchuk\Desktop\Sort\Sorting Algorithms\Bubble Sort\bin\Debug\Bubble Sort.dll
+C:\Users\Ievgenii_Iukhymchuk\Desktop\Sort\Sorting Algorithms\Bubble Sort\bin\Debug\Bubble Sort.pdb
+C:\Users\Ievgenii_Iukhymchuk\Desktop\Sort\Sorting Algorithms\Bubble Sort\bin\Debug\Contracts.dll
+C:\Users\Ievgenii_Iukhymchuk\Desktop\Sort\Sorting Algorithms\Bubble Sort\bin\Debug\Contracts.pdb
+C:\Users\Ievgenii_Iukhymchuk\Desktop\Sort\Sorting Algorithms\Bubble Sort\obj\Debug\Bubble Sort.csprojResolveAssemblyReference.cache
+C:\Users\Ievgenii_Iukhymchuk\Desktop\Sort\Sorting Algorithms\Bubble Sort\obj\Debug\Bubble Sort.dll
+C:\Users\Ievgenii_Iukhymchuk\Desktop\Sort\Sorting Algorithms\Bubble Sort\obj\Debug\Bubble Sort.pdb
